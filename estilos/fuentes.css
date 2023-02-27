@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
+
+.section {
+    border: 5px solid white;
+    width: 95%;
+    height: 250px;
+    color: white;
+    margin: 25px;
+    padding: 25px;
+}
+
+a {
+    color: bisque;
+}
+
+.link a {
+    color: #fff;
+    font-size: 40px;
+    text-decoration: none;
+    border: 5px solid white;
+    padding: 15px 25px;
+    border-radius: 20px;
+    background-color: black;
+    margin-left: 50%;
+
+
+}
